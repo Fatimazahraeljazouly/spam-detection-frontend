@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +53,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# spam-detection-frontend
+spam-detection-frontend interface for our SPAm detectiom Ml model that use python backend 
+>>>>>>> 1d79e75ac81ecb239e436bc6c65c1862fc28a676
